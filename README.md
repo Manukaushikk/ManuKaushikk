@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manukaushikk&show_icons=true&locale=en" alt="manukaushikk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manukaushikk&" alt="manukaushikk" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manukaushikk&" alt="manukaushikk" /></p>
 
 
 
