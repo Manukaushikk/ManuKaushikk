@@ -1,4 +1,4 @@
-
+![MasterHead](https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif)
 <h1 align="center">Hi 👋, I'm Manu Kaushik</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
