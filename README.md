@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Manu Kaushik</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manukaushikk&label=Profile%20views&color=0e75b6&style=flat" alt="manukaushikk" /> </p>
 
@@ -33,5 +33,12 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manukaushikk&" alt="manukaushikk" /></p>
 
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ by Manu Kaushik</p>
+<!-- <h1 align='center'>⚡️<i></i>⚡️</h1> -->
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
