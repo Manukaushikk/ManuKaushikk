@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manukaushikk&label=Profile%20views&color=0e75b6&style=flat" alt="manukaushikk" /> </p>
 
-- 🔭 I’m currently working on ***Insta Clone***
+- 🔭 I’m currently working on ***Resume Builder***
 
 - 🌱 I’m currently learning **React.js**
 
